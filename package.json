@@ -1,0 +1,16 @@
+{
+  "name": "dateParser",
+  "version": "0.0.0",
+  "description": "Small date parser.",
+  "main": "dateParser.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divdavem/dateParser.git"
+  },
+  "author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
+  "bugs": {
+    "url": "https://github.com/divdavem/dateParser/issues"
+  },
+  "homepage": "https://github.com/divdavem/dateParser",
+  "bin": "bin/dateParser"
+}
